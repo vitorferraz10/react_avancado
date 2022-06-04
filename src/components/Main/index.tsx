@@ -1,1 +1,1 @@
-export const Main = () => <div data-testid="test">Teste</div>
+export const Main = () => <div data-testid="teste">Teste</div>
